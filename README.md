@@ -7,6 +7,7 @@ xeno_ui repo work in progress
 
 * Renameing a widget:
   * change class name
+  * change class name in dev_app
   * change file name (*.coffee)
   * change directory name
   * change file path in main.coffee
