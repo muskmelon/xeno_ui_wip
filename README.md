@@ -9,6 +9,7 @@ xeno_ui repo work in progress
   * change class name
   * change file name (*.coffee)
   * change directory name
+  * change file path in main.coffee
   * change css name (*.css)
   * change css name in index.html
   * change css name in Gruntfile for production
