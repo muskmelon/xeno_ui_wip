@@ -22,7 +22,7 @@ xeno_ui repo work in progress
 * nothing will happen if no proper user yml is present, it is being request during open_channel()
   so must make sure that the file contains user list exists:
   * `<seed_set>/config/ui_data.yml` in xeno_ui
-  * `users/users.yml' in xenoui_recipe_generator
+  * `users/users.yml` in xenoui_recipe_generator
   * we should standardize this somehow later
   
 ## Action Menu Widget
