@@ -25,6 +25,7 @@ xeno_ui repo work in progress
   * `users/users.yml` in xenoui_recipe_generator
   * `students/ui_data.yml` in ofc-ui, NOTE there is NO `account_id` for this one
   * we should standardize this somehow!!
+  * should NOT need account_id when `@settings["enable_signin"]` is false
   
 ## Action Menu Widget
  * in template generic option block for each taregt MUST defined and MUST placed at bottom position
