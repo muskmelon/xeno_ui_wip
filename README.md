@@ -20,10 +20,11 @@ xeno_ui repo work in progress
 
 ## Test Channel Widget
 * nothing will happen if no proper user yml is present, it is being request during open_channel()
-  so must make sure that the file contains user list exists:
+  so must make sure that the file contains user list exists, and each user MUST present `account_id`:
   * `<seed_set>/config/ui_data.yml` in xeno_ui
   * `users/users.yml` in xenoui_recipe_generator
-  * we should standardize this somehow later
+  * `students/ui_data.yml` in ofc-ui, NOTE there is NO `account_id` for this one
+  * we should standardize this somehow!!
   
 ## Action Menu Widget
  * in template generic option block for each taregt MUST defined and MUST placed at bottom position
