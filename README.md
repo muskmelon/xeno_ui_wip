@@ -29,3 +29,12 @@ xeno_ui repo work in progress
   
 ## Action Menu Widget
  * in template generic option block for each taregt MUST defined and MUST placed at bottom position
+
+## Tree Widget
+* make sure in core.coffee there are a custom update_<xxx>_tree method for each tree instance
+* make sure the icon is defined for all the node type 
+  * because default icon will affect it's children, so when a node slected, the selected icon will affect it's children
+  * but if the icon for each node type is defined properly, it won't happen. (see Example in jqtree.extend.icon.css)
+
+
+
