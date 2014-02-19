@@ -36,5 +36,8 @@ xeno_ui repo work in progress
   * because default icon will affect it's children, so when a node slected, the selected icon will affect it's children
   * but if the icon for each node type is defined properly, it won't happen. (see Example in jqtree.extend.icon.css)
 
+## Editor Widget
+* make sure the element is defined in dev_app for AutoHeight
+* make sure the update_height command is associated in core.coffee
 
 
