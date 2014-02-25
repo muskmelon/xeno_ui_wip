@@ -3,6 +3,17 @@ xeno_ui_wip
 
 xeno_ui repo work in progress
 
+starting up:
+* TestChannel command ready # unnecessary
+* Core.test_channel_ready() 
+* Core command open_channel 
+* TestChannel.open_channel() # should just open it when init
+* TestChannel.signin()
+* TestChannel command auth_state
+* Core.get_auth_state_success() 
+* Core.init_channel_data()
+
+
 ## Widget
 
 * Renameing a widget:
