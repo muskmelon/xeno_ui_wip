@@ -12,6 +12,9 @@ starting up:
 * TestChannel command auth_state
 * Core.get_auth_state_success() 
 * Core.init_channel_data()
+* Core command get_recipe
+* TestChannel.get_recipe()
+* TestChannel command get_recipe_success
 
 should be....(later)
 * TestChannel.open_channel()
