@@ -13,6 +13,13 @@ starting up:
 * Core.get_auth_state_success() 
 * Core.init_channel_data()
 
+should be....(later)
+* TestChannel.open_channel()
+* TestChannel.signin()
+* TestChannel command auth_state
+* Core.get_auth_state_success() 
+* Core.init_channel_data()
+
 
 ## Widget
 
